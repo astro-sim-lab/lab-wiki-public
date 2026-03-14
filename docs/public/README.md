@@ -16,11 +16,9 @@
 
 ## メンバーと活動
 - [メンバー情報](./members.md)
-- [卒業生アーカイブ](./alumni_archive.md)
 
 ## スケジュール
-- [年間スケジュール](./schedule_yearly.md)
-- [週間スケジュール](./schedule_weekly.md)
+- [スケジュール](./schedule.md)
 
 ## リンク集
 - [初学者向けリンク集](./learning_links.md)

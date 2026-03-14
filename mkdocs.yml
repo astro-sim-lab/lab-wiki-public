@@ -1,5 +1,5 @@
-site_name: Laboratory Wiki (Public)
-site_description: 研究室の生活・ルールに関するWiki
+site_name: hirano-lab-wiki
+site_description: 平野研究室の公開サイト
 repo_url: https://github.com/shingohirano-astro/lab-wiki-public
 repo_name: lab-wiki-public
 edit_uri: edit/main/docs/public/
@@ -31,11 +31,9 @@ docs_dir: docs/public
 site_dir: site
 
 nav:
-  - Home: README.md
+  - ホーム: README.md
+  - ニュース: news.md
   - 研究紹介: research_overview.md
-  - 最近の成果: news.md
-  - 年間スケジュール: schedule_yearly.md
-  - 週間スケジュール: schedule_weekly.md
-  - メンバー情報: members.md
-  - 卒業生アーカイブ: alumni_archive.md
+  - メンバー: members.md
+  - スケジュール: schedule.md
   - 初学者向けリンク集: learning_links.md
