@@ -1,6 +1,6 @@
 # Lab Wiki
-- 研究室の情報発信Wikiです。
-  - [Web Page](https://astro-sim-lab.github.io/lab-wiki-public/)
+
+- [研究室HP](https://astro-sim-lab.github.io/lab-wiki-public/)
 
 <!--
 ## MkDocs Site (Reference)
