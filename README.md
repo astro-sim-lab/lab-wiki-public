@@ -1,6 +1,6 @@
 # Lab Wiki
 - 研究室の情報発信Wikiです。
-  - [https://shingohirano-astro.github.io/lab-wiki-public/](https://astro-sim-lab.github.io/lab-wiki-public/)
+  - [Web Page](https://astro-sim-lab.github.io/lab-wiki-public/)
 
 <!--
 ## MkDocs Site (Reference)
